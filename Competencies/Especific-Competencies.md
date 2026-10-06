@@ -1,0 +1,3 @@
+# Specific Competencies
+- Software Requirements Definition: Developed by identifying, classifying, and prioritizing the system's needs (Functional and Non-Functional Requirements), detailing how the chat should respond to normal situations, alternative options, and special cases.
+- System Delimitation and Structure: Applied when organizing the project's scope, precisely defining which procedures the virtual assistant handles and how it channels requests that do not correspond to it.
