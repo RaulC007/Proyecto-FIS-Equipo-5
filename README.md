@@ -1,4 +1,4 @@
-# FMAT UADY "Control Escolar" Vistual Assistant
+# FMAT UADY "Control Escolar" Virtual Assistant
 
 >Project Status: Phase 1, Requirements
 
