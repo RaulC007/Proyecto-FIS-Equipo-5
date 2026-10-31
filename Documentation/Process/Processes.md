@@ -15,8 +15,8 @@ We used an **iterative approach organized in sprints**, each one closing with a 
 
 | Sprint | Dates | Size | Goal | Result |
 | --- | --- | --- | --- | --- |
-| Sprint 1 | Sep 25 – [TODO end date], 2026 | 6 members | Gather requirements with School Control and write the first FR/NFR set | First delivery: initial requirements |
-| Sprint 2 | [TODO start date] – [TODO delivery date], 2026 | 6 members | Refine requirements, define use cases, sketch interfaces, prepare presentation and video | Second delivery: refined requirements, use cases and diagram, prototype, presentation |
+| Sprint 1 | Sep 25 - Oct 4, 2026 | 6 members | Gather requirements with School Control and write the first FR/NFR set | First delivery: initial requirements |
+| Sprint 2 | Oct 5 - Oct 30, 2026 | 6 members | Refine requirements, define use cases, sketch interfaces, prepare presentation and video | Second delivery: refined requirements, use cases and diagram, prototype, presentation |
 
 ### Sprint 1: Requirements gathering
 
