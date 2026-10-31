@@ -1,6 +1,6 @@
 # FMAT UADY "Control Escolar" Virtual Assistant
 
->Project Status: Phase 1, Requirements
+>Project Status: Phase 2, Design
 
 ## Objective 
 The objective of our project is to create a chatbot that allows users to enter prompts in natural language that help them make information queries and resolve confusions they may have when they need to interact with the School Control office of the Faculty of Mathematics; and for the chatbot to be capable of providing the requested information, giving the means to carry out the processes in case the student meets the requirements, or in cases where the information request is very specific, providing the methods to contact the School Control office to solve their problem; all of this in the same natural language.
@@ -19,15 +19,16 @@ New-entry students usually arrive at the faculty with many doubts about procedur
 Our product is a chatbot that responds in natural language, at any time and from a single point of access, to the most frequent doubts about School Control procedures. Unlike going to the service window, it does not depend on service hours nor generate lines, and it delivers information quickly, clearly, and concisely. When the case is special or does not correspond to School Control, the chatbot guides the student toward the responsible person or the appropriate department, instead of leaving them without an answer.
 The proposal is valuable because it offers students more accessible attention and reduces their uncertainty from the first contact with the procedures. At the same time, it allows School Control staff to stop attending to repetitive queries and dedicate their time to situations that truly require their intervention.
 
-## Current Status: Phase 1 (Requirements)
+## Current Status: Phase 2 (Design)
 [Requirements](../Proyecto-FIS-Equipo-5/Documentation/Requirements)
+[Design](../Proyecto-FIS-Equipo-5/Documentation/Design/)
 
 ## Repository Structure
 
 ``` text
 ├── Documentation
 │   ├── Competencies
-│   │   ├── Especific-Competencies.md
+│   │   ├── Specific-Competencies.md
 │   │   └── Generic-Competencies.mn
 │   ├── Presentation
 │   │   └── Presentation.md
@@ -54,14 +55,16 @@ The proposal is valuable because it offers students more accessible attention an
 │   │        ├── FR-004.md
 │   │        ├── FR-005.md
 │   │        └── FR-006.md
+│   ├── Design
+│   │
 │   ├── Use-Cases
 │   │   ├── UC-01.md
 │   │   ├── UC-02.md
 │   │   ├── UC-03.md
 │   │   └── UC-Diagram.png
 │   └── Process
-│   │   ├── Processes.md
-│   │   └── Team-Metric-and-Roles.md
+│       ├── Processes.md
+│       └── Team-Metric-and-Roles.md
 └── README.md
 ```
 
